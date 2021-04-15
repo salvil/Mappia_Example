@@ -350,6 +350,11 @@
 				<Styles></Styles>
 			</TileSet>
 			<CustomLayer>
+				<Name>GH:punto</Name>
+				<Title>punto</Title>
+				<Operation type="csv">1</Operation>
+			</CustomLayer>
+			<CustomLayer>
 				<Name>GH:strutture_pappadai</Name>
 				<Title>strutture_pappadai</Title>
 				<Operation type="csv">1</Operation>
